@@ -21,7 +21,7 @@ A minimalist web tool for calculating and recommending the best VP (Value Points
 
 ## Live Demo
 
-[View Live Demo](https://hassanhasen.github.io/vp-pack-recommender/)
+[View Live Demo](https://hassanhaseen.github.io/vp-pack-recommender/)
 
 ## Technologies Used
 
