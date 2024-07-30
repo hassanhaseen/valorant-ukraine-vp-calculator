@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VP Pack Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>VP Pack Recommender</h1>
+        <button onclick="calculatePrices()">Calculate Prices</button>
+        <div class="result" id="prices"></div>
+
+        <input type="number" id="vp_needed" min="1" placeholder="Enter VP amount">
+        <button onclick="recommendPacks()">Recommend Packs</button>
+
+        <div class="result" id="recommendations"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
